@@ -1,6 +1,6 @@
-id;name ;Age;education;religion
-dl;David Le;16;Real;na
-ck;Ceyda Kilic;20;Abi;is
-tr;Tabea Reich;20;Abi;na
-dt;Dominik Türk;20;Abi;na
-jl;Jenny Le;20;Abi;na
+id;name;Age;education;religion
+dl;DavidLe;16;Real;na
+ck;CeydaKilic;20;Abi;is
+tr;TabeaReich;20;Abi;na
+dt;DominikTürk;20;Abi;na
+jl;JennyLe;20;Abi;na
